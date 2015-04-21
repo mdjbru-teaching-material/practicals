@@ -1,0 +1,12 @@
+Those files were downloaded from the Ensembl genomes website.
+
+Each file corresponds to one Escherichia coli strain for which a
+complete or draft genome sequence is available. The name of the strain
+is contained in the file name. Each file contains the peptide
+sequences from all translations resulting from Ensembl known or novel
+gene predictions for that given E. coli strain.
+
+Files are in the FASTA format.
+
+The original address is
+ftp://ftp.ensemblgenomes.org/pub/current/bacteria/fasta/
